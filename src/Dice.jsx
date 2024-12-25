@@ -1,4 +1,4 @@
-import './dice.css'
+import './Dice.css'
 function Dice({diceVal}) {
     
     return (<div className="dice-container">
